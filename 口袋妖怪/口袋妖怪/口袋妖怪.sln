@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "口袋妖怪", "口袋妖怪\口袋妖怪.vdproj", "{1027347D-CC85-4E77-A1C8-DE8D8685F3BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1027347D-CC85-4E77-A1C8-DE8D8685F3BE}.Debug|Default.ActiveCfg = Debug
+		{1027347D-CC85-4E77-A1C8-DE8D8685F3BE}.Debug|Default.Build.0 = Debug
+		{1027347D-CC85-4E77-A1C8-DE8D8685F3BE}.Release|Default.ActiveCfg = Release
+		{1027347D-CC85-4E77-A1C8-DE8D8685F3BE}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5982E66E-7007-4E7E-9143-9A552A44CA3A}
+	EndGlobalSection
+EndGlobal

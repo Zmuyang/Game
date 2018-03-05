@@ -1,0 +1,5 @@
+﻿  源代码.cpp
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code1\口袋妖怪\口袋妖怪\源代码.cpp(31): warning C4002: “_T”宏的实参太多
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code1\口袋妖怪\口袋妖怪\源代码.cpp(32): warning C4002: “_T”宏的实参太多
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code1\口袋妖怪\口袋妖怪\源代码.cpp(73): warning C4326: “main”的返回类型应为“int”而非“void”
+  口袋妖怪.vcxproj -> C:\Users\马春阳\Documents\C++\口袋妖怪 C++\Code1\口袋妖怪\Debug\口袋妖怪.exe

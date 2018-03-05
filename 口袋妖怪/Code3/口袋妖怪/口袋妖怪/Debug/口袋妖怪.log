@@ -1,0 +1,6 @@
+﻿  口袋妖怪源代码.cpp
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code3\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(639): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code3\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(643): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code3\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(647): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code3\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(650): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  口袋妖怪.vcxproj -> C:\Users\马春阳\Documents\C++\口袋妖怪 C++\Code3\口袋妖怪\Debug\口袋妖怪.exe

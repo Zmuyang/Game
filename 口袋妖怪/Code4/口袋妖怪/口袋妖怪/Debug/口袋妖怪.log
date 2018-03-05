@@ -1,0 +1,17 @@
+﻿  口袋妖怪源代码.cpp
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(200): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(200): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(200): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“int”
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(200): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 4 拥有了类型“int”
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(528): warning C4002: “_T”宏的实参太多
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(529): warning C4002: “_T”宏的实参太多
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(1074): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(1080): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(1082): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(1115): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(1120): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(1125): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(1130): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(1134): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\马春阳\documents\c++\口袋妖怪 c++\code4\口袋妖怪\口袋妖怪\口袋妖怪源代码.cpp(1501): warning C4326: “main”的返回类型应为“int”而非“void”
+  口袋妖怪.vcxproj -> C:\Users\马春阳\Documents\C++\口袋妖怪 C++\Code4\口袋妖怪\Debug\口袋妖怪.exe
